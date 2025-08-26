@@ -1,0 +1,12 @@
+{
+  "name": "surfline-bot"
+  "version": "1.0.0"
+  "type": "module"
+  "main": "webhook.js"
+  "scripts": {
+    "start": "node webhook.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"  
+  }
+}
